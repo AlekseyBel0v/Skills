@@ -1,4 +1,5 @@
 # Пройденные темы:
+
 ## Основы Java
 1. Введение в программирование на Java
 2. Структура программы
@@ -57,3 +58,29 @@
 2. Переменные многопоточной программы (Volatil, Atomics)
 3. Коллекции для параллельной работы
 4. Функциональное программирование, TDD и DDD
+
+## Web, Spring & Spring MVC
+1. Протокол HTTP и современный Web (OSI, TCP/IP, основы HTML)
+2. Формы и форматы передачи данных
+3. JS, REST, JSON, CORS
+4. Servlet Containers (общий обзор java EE, сервлеты, слои)
+5. Dependency Injection, Spring, Application Context
+6. Spring Web MVC (Embed Tomcat, DispatcherServlet, RequestMappingHandlerAdapter)
+
+## Sptring Boot, Deplyment & инфраструктура
+1. Spring boot назначение и внутреннее устройство
+2. REST (обработка ошибок, валидация, WebMvcConfigurer - interceptor классы, регистрация статических ресурсов, кастомные конвертеры)
+3. Nginx, работа с териминалом
+4. Основы работы с Docker
+5. Testcontainers, краткий обзор Kubernetes
+6. Базы данных (SQL, операторы DDL, DML)
+7. Вложенные подзапросы, JOIN'ы, агрегирующие запросы
+8. JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
+9. ORM_Hibernate, Entity Lifecycle, Embedding, Relationships
+10. Spring JPA Repositories, JPQL
+11. Безопасность в веб-приложениях, Spring Security (starter 2.7)
+12. Method security. OAuth2.
+
+## Дипломная работа доступна по [ссылке](https://github.com/AlekseyBel0v/MyCloud/blob/set_security_2.6.15/README.md)
+
+## [Сылка](https://github.com/AlekseyBel0v?tab=repositories) на репозиторий, где хранятся все выполненные практические задания по курсу
