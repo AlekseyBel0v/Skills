@@ -1,6 +1,6 @@
 # Стек технологий с примерами кода:
 
-## Облачное хранилище файлов с REST авторизацией через JWT [ссылке](https://github.com/AlekseyBel0v/MyCloud/blob/set_security_2.6.15/README.md)
+## Облачное хранилище файлов с REST авторизацией по JWT [ссылке](https://github.com/AlekseyBel0v/MyCloud/blob/set_security_2.6.15/README.md)
 
 ## Spring Boot, Deplyment & инфраструктура
 1. Spring boot назначение и внутреннее устройство
