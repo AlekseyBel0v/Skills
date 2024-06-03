@@ -2,22 +2,28 @@
 
 ## Облачное хранилище файлов с REST авторизацией по JWT [ссылке](https://github.com/AlekseyBel0v/MyCloud/blob/set_security_2.6.15/README.md)
 
+## Хранение данных и организация безопасности
+1. Базы данных (SQL, операторы DDL, DML)
+   https://github.com/AlekseyBel0v/SQL_scripts
+3. Вложенные подзапросы, JOIN'ы, агрегирующие запросы
+   https://github.com/AlekseyBel0v/SQL_scripts_with_JOIN_and_GROUP_BY
+5. JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
+   https://github.com/AlekseyBel0v/JDBC
+7. ORM_Hibernate, Entity Lifecycle, Embedding:
+   https://github.com/AlekseyBel0v/Hibernate
+   Relationships:
+   https://github.com/AlekseyBel0v/Hibernate/tree/hibernate
+9. Spring JPA Repositories, JPQL
+   https://github.com/AlekseyBel0v/10.5_JPA_repositories
+10. Безопасность в веб-приложениях, Spring Security (starter 2.7)
+11. Method security. OAuth2.
+
 ## Spring Boot, Deplyment & инфраструктура
 1. Spring boot назначение и внутреннее устройство
 2. REST (обработка ошибок, валидация, WebMvcConfigurer - interceptor классы, регистрация статических ресурсов, кастомные конвертеры)
 3. Nginx, работа с териминалом
 4. Основы работы с Docker
 5. Testcontainers, краткий обзор Kubernetes
-
-## 
-1. Базы данных (SQL, операторы DDL, DML)
-2. Вложенные подзапросы, JOIN'ы, агрегирующие запросы
-3. JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
-4. ORM_Hibernate, Entity Lifecycle, Embedding, Relationships
-5. Spring JPA Repositories, JPQL
-   https://github.com/AlekseyBel0v/10.5_JPA_repositories
-7. Безопасность в веб-приложениях, Spring Security (starter 2.7)
-8. Method security. OAuth2.
 
 ## Web, Spring & Spring MVC
 1. Протокол HTTP и современный Web (OSI, TCP/IP, основы HTML)
