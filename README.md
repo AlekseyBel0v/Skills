@@ -11,7 +11,7 @@
    https://github.com/AlekseyBel0v/JDBC
 7. ORM_Hibernate, Entity Lifecycle, Embedding:
    https://github.com/AlekseyBel0v/Hibernate
-   Relationships:
+Relationships:
    https://github.com/AlekseyBel0v/Hibernate/tree/hibernate
 9. Spring JPA Repositories, JPQL
    https://github.com/AlekseyBel0v/10.5_JPA_repositories
