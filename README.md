@@ -8,13 +8,16 @@
 3. Nginx, работа с териминалом
 4. Основы работы с Docker
 5. Testcontainers, краткий обзор Kubernetes
-6. Базы данных (SQL, операторы DDL, DML)
-7. Вложенные подзапросы, JOIN'ы, агрегирующие запросы
-8. JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
-9. ORM_Hibernate, Entity Lifecycle, Embedding, Relationships
-10. Spring JPA Repositories, JPQL
-11. Безопасность в веб-приложениях, Spring Security (starter 2.7)
-12. Method security. OAuth2.
+
+## 
+1. Базы данных (SQL, операторы DDL, DML)
+2. Вложенные подзапросы, JOIN'ы, агрегирующие запросы
+3. JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
+4. ORM_Hibernate, Entity Lifecycle, Embedding, Relationships
+5. Spring JPA Repositories, JPQL
+   https://github.com/AlekseyBel0v/10.5_JPA_repositories
+7. Безопасность в веб-приложениях, Spring Security (starter 2.7)
+8. Method security. OAuth2.
 
 ## Web, Spring & Spring MVC
 1. Протокол HTTP и современный Web (OSI, TCP/IP, основы HTML)
