@@ -80,41 +80,49 @@ Relationships:
 1. Лямбда-выражения и функциональные интерфейсы  
    https://github.com/AlekseyBel0v/4.1.1._L-expressions_and_references_on_methods
    https://github.com/AlekseyBel0v/4.1.2._Callback
-3. Stream API. Потоки, повторные вызовы, основные методы  
+2. Stream API. Потоки, повторные вызовы, основные методы  
    https://github.com/AlekseyBel0v/4.2.2._Population_census
    https://github.com/AlekseyBel0v/4.2.1._Exampple
-5. Потоки ввода-вывода. Работа с файлами. Сериализация  
+3. Потоки ввода-вывода. Работа с файлами. Сериализация  
    https://github.com/AlekseyBel0v/4.3.1._Task_1
    https://github.com/AlekseyBel0v/4.3.2._Task_2
    https://github.com/AlekseyBel0v/4.3.3._Task_3
-7. Сборка проектов. Maven  
+4. Сборка проектов. Maven  
    https://github.com/AlekseyBel0v/4.4.1_Maven_example
    Gradle  
    https://github.com/AlekseyBel0v/4.4.2_Gradle_example
-9. Работа с файлами CSV (OpenCSV), XML (DOM), JSON (Json Simple, GSON, Jackson)  
+5. Работа с файлами CSV (OpenCSV), XML (DOM), JSON (Json Simple, GSON, Jackson)  
     https://github.com/AlekseyBel0v/csv_xml_json
-11. Тестирование кода и Unit-тесты  
+6. Тестирование кода и Unit-тесты  
     https://github.com/AlekseyBel0v/4.6.1_Task1
-13. Mockito. Мокирование вызовов, Mock, Stub  
+7. Mockito. Мокирование вызовов, Mock, Stub  
     https://github.com/AlekseyBel0v/4.7.2_Mockito-task2-healthcare-service
-15. Основы работы с сетью. Модель OSI  
+8. Основы работы с сетью. Модель OSI  
     https://github.com/AlekseyBel0v/4.8.1_OSI_server_task1
-17. Протокол HTTP. Вызов удаленных серверов (httpclient)  
+9. Протокол HTTP. Вызов удаленных серверов (httpclient)  
     https://github.com/AlekseyBel0v/4.9.2_http_task2_NasaApi
     https://github.com/AlekseyBel0v/4.9.1_http_task1_cats
-19. JVM. Организация памяти, сборщики мусора, VisualVM  
+10. JVM. Организация памяти, сборщики мусора, VisualVM  
     https://github.com/AlekseyBel0v/4.10_JVM_task1
     https://github.com/AlekseyBel0v/4.10._task2_VisualJM
 
 ## Алгоритмы и структуры данных
-1. Алгоритмическая сложность. Бинпоиск
-2. Рекурсия
-3. Сортировки
-4. Динамический массив, списки, деки
-5. Пирамиды и деревья поиска
-6. Таблицы
-7. Графы
-8. Орграфы
+1. Алгоритмическая сложность. Бинпоиск  
+   https://replit.com/@belovalexey/AlgoritmsandStuctures1
+2. Рекурсия  
+   https://replit.com/@belovalexey/Rcurcio#Main.java
+3. Сортировки  
+   https://replit.com/@belovalexey/Sortings#Main.java
+4. Динамический массив, списки, деки  
+   https://replit.com/@belovalexey/StackAlgoritm#Main.java
+5. Пирамиды и деревья поиска  
+    https://replit.com/@belovalexey/Trees
+6. Таблицы  
+    https://replit.com/@belovalexey/RobinandCurpAlgoritm
+7. Графы  
+    https://replit.com/@belovalexey/Graph
+8. Орграфы  
+    https://replit.com/@belovalexey/G
 
 ## GIT
 1. Работа с локальным репозиторием в Git
@@ -130,8 +138,8 @@ Relationships:
 6. Модификаторы доступа
 7. Наследование, полиморфизм, абстракции и интерфейсы
 8. Исключения, Stacktrace
-9. Generics в коллекциях и методах
-10. Коллекции List, Queue, HashSet и HashMap, TreeMap и TreeSet
+10. Generics в коллекциях и методах
+11. Коллекции List, Queue, HashSet и HashMap, TreeMap и TreeSet
 
 ## [Сылка](https://github.com/AlekseyBel0v?tab=repositories) на репозиторий, где хранятся все выполненные примеры
 
