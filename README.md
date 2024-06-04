@@ -10,7 +10,7 @@
 5. JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
    https://github.com/AlekseyBel0v/JDBC
 7. ORM_Hibernate, Entity Lifecycle, Embedding:
-   https://github.com/AlekseyBel0v/Hibernate
+   https://github.com/AlekseyBel0v/Hibernate  
 Relationships:
    https://github.com/AlekseyBel0v/Hibernate/tree/hibernate
 9. Spring JPA Repositories, JPQL
