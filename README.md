@@ -27,13 +27,13 @@ Relationships:
 ## Spring Boot, Deplyment & инфраструктура
 1. Spring boot назначение и внутреннее устройство  
    https://github.com/AlekseyBel0v/9.1._SpringBoot_Conditional
-3. REST (обработка ошибок, валидация, WebMvcConfigurer - interceptor классы, регистрация статических ресурсов, кастомные конвертеры)  
+2. REST (обработка ошибок, валидация, WebMvcConfigurer - interceptor классы, регистрация статических ресурсов, кастомные конвертеры)  
    https://github.com/AlekseyBel0v/9.2._REST_authorisation
-5. Nginx, работа с териминалом  
+3. Nginx, работа с териминалом  
    https://github.com/AlekseyBel0v/9.3_Nginx_example
-7. Основы работы с Docker  
+4. Основы работы с Docker  
    https://github.com/AlekseyBel0v/MyDocker
-9. Testcontainers, краткий обзор Kubernetes
+5. Testcontainers, краткий обзор Kubernetes  
     https://github.com/AlekseyBel0v/9.1._SpringBoot_Conditional  
    https://github.com/AlekseyBel0v/PaymentService
 
@@ -42,26 +42,26 @@ Relationships:
 ## Web, Spring & Spring MVC
 1. Протокол HTTP и современный Web (OSI, TCP/IP, основы HTML)  
    https://github.com/AlekseyBel0v/7.1.1._Refactoring_and_MultiThreading
-3. Формы и форматы передачи данных  
+2. Формы и форматы передачи данных  
    https://github.com/AlekseyBel0v/7.2.2._Handlers/pull/1#issue-1714391256
-5. JS, REST, JSON, CORS
-7. Servlet Containers (общий обзор java EE, сервлеты, слои)  
+3. JS, REST, JSON, CORS
+4. Servlet Containers (общий обзор java EE, сервлеты, слои)  
    https://github.com/AlekseyBel0v/7.2.1.1._Servlets_Containers
-9. Dependency Injection, Spring, Application Context  
+5. Dependency Injection, Spring, Application Context  
     https://github.com/AlekseyBel0v/7.2.1.1._Servlets_Containers/tree/feature/di-annotation
-11. Spring Web MVC (Embed Tomcat, DispatcherServlet, RequestMappingHandlerAdapter)  
+6. Spring Web MVC (Embed Tomcat, DispatcherServlet, RequestMappingHandlerAdapter)  
     https://github.com/AlekseyBel0v/Spring_Web_MVC
 
 ## Многопоточное программирование
 1. Многопоточное программирование. Работа с потоками (Thread и Runnable, Future и пулы потоков, FutureTask, ExecutorService)  
    https://github.com/AlekseyBel0v/6.1.1._ValueInterval
-3. Работа с синхронизацией (synchronized, wait, notify, взаимные блокировки)  
+2. Работа с синхронизацией (synchronized, wait, notify, взаимные блокировки)  
    https://github.com/AlekseyBel0v/6.1.2_Deliverer_robot
-5. Переменные многопоточной программы (Volatil, Atomics)  
+3. Переменные многопоточной программы (Volatil, Atomics)  
    https://github.com/AlekseyBel0v/6.1.3_AttomicInteger
-7. Коллекции для параллельной работы  
+4. Коллекции для параллельной работы  
    https://github.com/AlekseyBel0v/6.1.4._ArrayBlockingQueue
-9. Функциональное программирование, TDD и DDD  
+5. Функциональное программирование, TDD и DDD  
     https://github.com/AlekseyBel0v/6.2.2._TDD
 
 ## Шаблоны проектирования
