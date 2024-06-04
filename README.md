@@ -40,12 +40,17 @@ Relationships:
 ## Приложение по проведению транзакции перевода денег [ссылка](https://github.com/AlekseyBel0v/PaymentService)
 
 ## Web, Spring & Spring MVC
-1. Протокол HTTP и современный Web (OSI, TCP/IP, основы HTML)
-2. Формы и форматы передачи данных
-3. JS, REST, JSON, CORS
-4. Servlet Containers (общий обзор java EE, сервлеты, слои)
-5. Dependency Injection, Spring, Application Context
-6. Spring Web MVC (Embed Tomcat, DispatcherServlet, RequestMappingHandlerAdapter)
+1. Протокол HTTP и современный Web (OSI, TCP/IP, основы HTML)  
+   https://github.com/AlekseyBel0v/7.1.1._Refactoring_and_MultiThreading
+3. Формы и форматы передачи данных  
+   https://github.com/AlekseyBel0v/7.2.2._Handlers/pull/1#issue-1714391256
+5. JS, REST, JSON, CORS
+7. Servlet Containers (общий обзор java EE, сервлеты, слои)  
+   https://github.com/AlekseyBel0v/7.2.1.1._Servlets_Containers
+9. Dependency Injection, Spring, Application Context  
+    https://github.com/AlekseyBel0v/7.2.1.1._Servlets_Containers/tree/feature/di-annotation
+11. Spring Web MVC (Embed Tomcat, DispatcherServlet, RequestMappingHandlerAdapter)  
+    https://github.com/AlekseyBel0v/Spring_Web_MVC
 
 ## Многопоточное программирование
 1. Многопоточное программирование. Работа с потоками (Thread и Runnable, Future и пулы потоков, FutureTask, ExecutorService)
