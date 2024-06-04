@@ -65,10 +65,16 @@ Relationships:
     https://github.com/AlekseyBel0v/6.2.2._TDD
 
 ## Шаблоны проектирования
-1. Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype
-2. Структурные шаблоны. Proxy, Decorator, Adapter
-3. Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility
-4. Magics, DRY, SOLID
+1. Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype  
+   https://github.com/AlekseyBel0v/5.1.1._Builder_Patern  
+   https://github.com/AlekseyBel0v/5.1.2._Singleton_pattern
+3. Структурные шаблоны. Proxy, Decorator, Adapter  
+   https://github.com/AlekseyBel0v/5.2.1_Adapter_pattern  
+   https://github.com/AlekseyBel0v/5.2.2._Facade_pattern
+5. Поведенческие шаблоны. Command, Iterator, Observer, Chain of Responsibility
+   https://github.com/AlekseyBel0v/5.3.1_Iterator_pattern
+7. Magics, DRY, SOLID  
+   https://github.com/AlekseyBel0v/5.4._Store
 
 ## Java Core
 1. Лямбда-выражения и функциональные интерфейсы
