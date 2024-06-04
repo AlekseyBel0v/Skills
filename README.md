@@ -5,18 +5,24 @@
 ## Хранение данных и организация безопасности
 1. Базы данных (SQL, операторы DDL, DML)  
    https://github.com/AlekseyBel0v/SQL_scripts
+   https://github.com/AlekseyBel0v/10.1._SQL_DDL_DML
 3. Вложенные подзапросы, JOIN'ы, агрегирующие запросы  
    https://github.com/AlekseyBel0v/SQL_scripts_with_JOIN_and_GROUP_BY
+   https://github.com/AlekseyBel0v/10.2_JOIN
 5. JDBC API, JdbcTemplate, NamedParametersJdbcTemplate  
    https://github.com/AlekseyBel0v/JDBC
+   https://github.com/AlekseyBel0v/10.3._JDBC
 7. ORM_Hibernate, Entity Lifecycle, Embedding:  
    https://github.com/AlekseyBel0v/Hibernate  
 Relationships:  
-   https://github.com/AlekseyBel0v/Hibernate/tree/hibernate
+   https://github.com/AlekseyBel0v/Hibernate/tree/hibernate  
+   https://github.com/AlekseyBel0v/10.4_ORM
 9. Spring JPA Repositories, JPQL  
    https://github.com/AlekseyBel0v/10.5_JPA_repositories
-10. Безопасность в веб-приложениях, Spring Security (starter 2.7)
-11. Method security. OAuth2.
+10. Безопасность в веб-приложениях, Spring Security (starter 2.7)  
+    https://github.com/AlekseyBel0v/10.6_Spring_Sequrity
+12. Method security. OAuth2.  
+    https://github.com/AlekseyBel0v/10.6_Spring_Sequrity
 
 ## Spring Boot, Deplyment & инфраструктура
 1. Spring boot назначение и внутреннее устройство
