@@ -25,11 +25,16 @@ Relationships:
     https://github.com/AlekseyBel0v/10.6_Spring_Sequrity
 
 ## Spring Boot, Deplyment & инфраструктура
-1. Spring boot назначение и внутреннее устройство
-2. REST (обработка ошибок, валидация, WebMvcConfigurer - interceptor классы, регистрация статических ресурсов, кастомные конвертеры)
-3. Nginx, работа с териминалом
-4. Основы работы с Docker
-5. Testcontainers, краткий обзор Kubernetes
+1. Spring boot назначение и внутреннее устройство  
+   https://github.com/AlekseyBel0v/9.1._SpringBoot_Conditional
+3. REST (обработка ошибок, валидация, WebMvcConfigurer - interceptor классы, регистрация статических ресурсов, кастомные конвертеры)  
+   https://github.com/AlekseyBel0v/9.2._REST_authorisation
+5. Nginx, работа с териминалом  
+   https://github.com/AlekseyBel0v/9.3_Nginx_example
+7. Основы работы с Docker  
+   https://github.com/AlekseyBel0v/MyDocker
+9. Testcontainers, краткий обзор Kubernetes
+    https://github.com/AlekseyBel0v/9.1._SpringBoot_Conditional
 
 ## Web, Spring & Spring MVC
 1. Протокол HTTP и современный Web (OSI, TCP/IP, основы HTML)
