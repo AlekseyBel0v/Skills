@@ -3,17 +3,17 @@
 ## Облачное хранилище файлов с REST авторизацией по JWT [ссылке](https://github.com/AlekseyBel0v/MyCloud/blob/set_security_2.6.15/README.md)
 
 ## Хранение данных и организация безопасности
-1. Базы данных (SQL, операторы DDL, DML)
+1. Базы данных (SQL, операторы DDL, DML)  
    https://github.com/AlekseyBel0v/SQL_scripts
-3. Вложенные подзапросы, JOIN'ы, агрегирующие запросы
+3. Вложенные подзапросы, JOIN'ы, агрегирующие запросы  
    https://github.com/AlekseyBel0v/SQL_scripts_with_JOIN_and_GROUP_BY
-5. JDBC API, JdbcTemplate, NamedParametersJdbcTemplate
+5. JDBC API, JdbcTemplate, NamedParametersJdbcTemplate  
    https://github.com/AlekseyBel0v/JDBC
-7. ORM_Hibernate, Entity Lifecycle, Embedding:
+7. ORM_Hibernate, Entity Lifecycle, Embedding:  
    https://github.com/AlekseyBel0v/Hibernate  
-Relationships:
+Relationships:  
    https://github.com/AlekseyBel0v/Hibernate/tree/hibernate
-9. Spring JPA Repositories, JPQL
+9. Spring JPA Repositories, JPQL  
    https://github.com/AlekseyBel0v/10.5_JPA_repositories
 10. Безопасность в веб-приложениях, Spring Security (starter 2.7)
 11. Method security. OAuth2.
