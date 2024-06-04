@@ -53,11 +53,16 @@ Relationships:
     https://github.com/AlekseyBel0v/Spring_Web_MVC
 
 ## Многопоточное программирование
-1. Многопоточное программирование. Работа с потоками (Thread и Runnable, Future и пулы потоков, FutureTask, ExecutorService)
-2. Работа с синхронизацией (synchronized, wait, notify, взаимные блокировки)
-3. Переменные многопоточной программы (Volatil, Atomics)
-4. Коллекции для параллельной работы
-5. Функциональное программирование, TDD и DDD
+1. Многопоточное программирование. Работа с потоками (Thread и Runnable, Future и пулы потоков, FutureTask, ExecutorService)  
+   https://github.com/AlekseyBel0v/6.1.1._ValueInterval
+3. Работа с синхронизацией (synchronized, wait, notify, взаимные блокировки)  
+   https://github.com/AlekseyBel0v/6.1.2_Deliverer_robot
+5. Переменные многопоточной программы (Volatil, Atomics)  
+   https://github.com/AlekseyBel0v/6.1.3_AttomicInteger
+7. Коллекции для параллельной работы  
+   https://github.com/AlekseyBel0v/6.1.4._ArrayBlockingQueue
+9. Функциональное программирование, TDD и DDD  
+    https://github.com/AlekseyBel0v/6.2.2._TDD
 
 ## Шаблоны проектирования
 1. Порождающие шаблоны. Builder, Singleton, Factory Method, Abstract Factory, Prototype
